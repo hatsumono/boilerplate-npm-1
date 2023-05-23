@@ -3,6 +3,7 @@
 	"author": "suleiman mussa yussuf",
 	"description": "A project for learning node api backend",
 	"keywords": ["node","freecodecamp","api"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.18.2"
 	},
