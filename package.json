@@ -1,6 +1,6 @@
 {
-	"author": "suleiman mussa yussuf",
 	"name": "fcc-learn-npm-package-json",
+	"author": "suleiman mussa yussuf",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
